@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700);
+
+body {
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Lovely-background-hd-wallpapers-PIC-WPD0013477.jpg");
+    }
+
+.login {
+  width: 212px;
+  display: inline-block;
+  position: absolute;
+  transition: 0.5s;
+  top: 2%;
+  left: 84%;
+  border: 1px solid;
+  border-bottom-color: rgba(255,255,255,.5);
+  border-right-color: rgba(60,60,60,.35);
+  border-top-color: rgba(60,60,60,.35);
+  border-left-color: rgba(80,80,80,.45);
+  background-color: rgba(0,0,0,.2);
+  background-repeat: no-repeat;
+  padding: 8px 24px 8px 10px;
+  font: bold .875em/1.25em "Open Sans Condensed", sans-serif;
+  letter-spacing: .075em;
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  margin-bottom: 19px;
+}
+
+.yahye {
+  width: 212px;
+  transition: 0.5s;
+  top: 2%;
+  left: 30%;
+  padding: 20px;
+  font: bold .875em/1.25em "Open Sans Condensed", sans-serif;
+  letter-spacing: .075em;
+  color: #fff;
+  margin-bottom: 19px;
+}
+
+form button:hover {
+	background-color: #008CBA;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+h2 {
+
+  font-size: 30px;
+  padding-left: 575px;
+  padding-top: 150px;
+}
+
+h3 {
+  font-size: 25px;
+  padding-left: 640px;
+  padding-top: 10px;
+}
